@@ -1,0 +1,9 @@
+
+## Firmware Archetecture ##
+
+- main.c          → system initialization
+- app_main.c      → application behavior
+- led_service.c   → device logic
+- led_driver.c    → hardware control
+- stm32f4xx_it.c  → interrupt handlers
+- HAL             → hardware abstraction

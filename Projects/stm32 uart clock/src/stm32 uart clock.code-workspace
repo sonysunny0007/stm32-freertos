@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"name": "stm32 uart clock",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
